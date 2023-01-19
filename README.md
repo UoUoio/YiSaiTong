@@ -21,8 +21,9 @@
 >
 > 
 
-<img src="https://github.com/UoUoio/YiSaiTong/img/解密配置文件.png" alt="image.png" style="zoom: 50%;" />
+<img src="https://github.com/UoUoio/YiSaiTong/blob/main/img/%E8%A7%A3%E5%AF%86%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6.png" alt="image.png" style="zoom: 50%;" />
 
 
 
 侵删.
+
