@@ -21,7 +21,7 @@
 >
 > 
 
-<img src="https://github.com/UoUoio/YiSaiTong/tree/main/img/解密配置文件.png" alt="image.png" style="zoom: 50%;" />
+<img src="https://github.com/UoUoio/YiSaiTong/img/解密配置文件.png" alt="image.png" style="zoom: 50%;" />
 
 
 
